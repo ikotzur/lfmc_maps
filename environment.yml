@@ -95,6 +95,7 @@ dependencies:
   - importlib_resources=6.5.2=pyhd8ed1ab_0
   - ipykernel=6.30.1=pyh92f572d_0
   - ipython=8.18.1=pyh707e725_3
+  - ipywidgets=8.1.7=pyhd8ed1ab_0
   - isoduration=20.11.0=pyhd8ed1ab_1
   - jedi=0.19.2=pyhd8ed1ab_1
   - jinja2=3.1.6=pyhd8ed1ab_0
@@ -114,6 +115,7 @@ dependencies:
   - jupyterlab=4.4.6=pyhd8ed1ab_0
   - jupyterlab_pygments=0.3.0=pyhd8ed1ab_2
   - jupyterlab_server=2.27.3=pyhd8ed1ab_1
+  - jupyterlab_widgets=3.0.15=pyhd8ed1ab_0
   - kiwisolver=1.4.7=py39h0d8d0ca_0
   - krb5=1.21.3=h37d8d59_0
   - lark=1.2.2=pyhd8ed1ab_1
@@ -294,6 +296,7 @@ dependencies:
   - webencodings=0.5.1=pyhd8ed1ab_3
   - websocket-client=1.8.0=pyhd8ed1ab_1
   - wheel=0.45.1=pyhd8ed1ab_1
+  - widgetsnbextension=4.0.14=pyhd8ed1ab_0
   - x265=3.5=hbb4e6a2_3
   - xarray=2024.7.0=pyhd8ed1ab_0
   - xerces-c=3.2.5=h197e74d_2
