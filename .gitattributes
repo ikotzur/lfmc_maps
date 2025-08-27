@@ -1,3 +1,5 @@
 rf_xr_s2fmc_forest.pickle filter=lfs diff=lfs merge=lfs -text
 data/nonveg_mask_nve_pct_nsw.tif filter=lfs diff=lfs merge=lfs -text
 data/nonveg_mask_nve_nsw_v2.tif filter=lfs diff=lfs merge=lfs -text
+inputs/nonveg_mask_nve_nsw_v2.tif filter=lfs diff=lfs merge=lfs -text
+inputs/rf_s2fmc_forest.joblib filter=lfs diff=lfs merge=lfs -text

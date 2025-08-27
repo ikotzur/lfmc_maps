@@ -1,8 +1,6 @@
 name: lfmc_maps_env
 channels:
   - conda-forge
-  - defaults
-  - phausamann
 dependencies:
   - python=3.9
   - numpy
@@ -15,9 +13,9 @@ dependencies:
   - scikit-learn
   - pyproj
   - matplotlib
-  - sklearn-xarray
   - odc-stac
   - pip
   - pip:
       - pystac-client
       - joblib
+      - sklearn-xarray
