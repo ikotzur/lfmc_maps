@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>nonveg_mask_nve_nsw_v2</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1</MDI>
+      <MDI key="STATISTICS_MEAN">0.39605532646437</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.48907617488852</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">79.33</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -14,6 +14,11 @@ dependencies:
   - pyproj
   - matplotlib
   - odc-stac
+  - geopandas
+  - ipyleaflet
+  - shapely
+  - ipywidgets
+  - scipy
   - pip
   - pip:
       - pystac-client
