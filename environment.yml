@@ -19,6 +19,12 @@ dependencies:
   - shapely
   - ipywidgets
   - scipy
+  - fsspec
+  - requests
+  - h5netcdf
+  - netCDF4
+  - pydap
+  - aiohttp
   - pip
   - pip:
       - pystac-client
